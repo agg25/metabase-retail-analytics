@@ -1,0 +1,41 @@
+product_id,category,unit_price,unit_cost
+p0001,Apparel,87.55,39.4
+p0002,Apparel,32.25,14.51
+p0003,Apparel,54.75,24.64
+p0004,Apparel,50.09,22.54
+p0005,Apparel,96.28,43.33
+p0006,Apparel,90.9,40.91
+p0007,Apparel,110.3,49.63
+p0008,Apparel,37.82,17.02
+p0009,Home Decor,107.51,59.13
+p0010,Home Decor,44.77,24.62
+p0011,Home Decor,74.98,41.24
+p0012,Home Decor,120.86,66.47
+p0013,Home Decor,44.25,24.34
+p0014,Home Decor,71.81,39.5
+p0015,Home Decor,143.98,79.19
+p0016,Home Decor,127.19,69.95
+p0017,Kitchen,48.66,24.33
+p0018,Kitchen,96.6,48.3
+p0019,Kitchen,125.23,62.62
+p0020,Kitchen,20.84,10.42
+p0021,Kitchen,124.76,62.38
+p0022,Kitchen,110.76,55.38
+p0023,Kitchen,64.23,32.12
+p0024,Kitchen,40.21,20.11
+p0025,Bed & Bath,125.51,60.24
+p0026,Bed & Bath,60.34,28.96
+p0027,Bed & Bath,34.74,16.68
+p0028,Bed & Bath,35.16,16.88
+p0029,Bed & Bath,113.99,54.72
+p0030,Bed & Bath,88.39,42.43
+p0031,Bed & Bath,109.75,52.68
+p0032,Bed & Bath,101.62,48.78
+p0033,Accessories,36.81,14.72
+p0034,Accessories,58.66,23.46
+p0035,Accessories,28.93,11.57
+p0036,Accessories,37.6,15.04
+p0037,Accessories,51.47,20.59
+p0038,Accessories,40.93,16.37
+p0039,Accessories,53.09,21.24
+p0040,Accessories,38.87,15.55
